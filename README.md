@@ -196,7 +196,7 @@ Issues and pull requests are welcome. Before opening a PR, make sure `npm run bu
 
 ## License
 
-Node Voyager is open source under the [MIT License](LICENSE). Copyright (c) 2026 Ruwen Schneider.
+Node Voyager is open source under the [MIT License](LICENSE). Copyright (c) 2026 ruwenschneider.
 
 It builds on third-party open-source software under MIT, Apache-2.0, MPL-2.0, BSD, ISC, Zlib and Unicode-3.0 licenses. See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for the full list, including notes on the MPL-2.0 and Unicode-3.0 obligations.
 
